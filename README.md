@@ -1,23 +1,31 @@
 # Hi, I'm Yahya Essabbahy 👋
 
-**Founder & Core Developer at Shadow Auditor AI**  
+**Founder & Agentic Systems Engineer at Shadow Auditor AI**  
 *Building Autonomous Multi-Agent Swarms to Eliminate LLM Hallucinations in Offensive Cybersecurity.*
 
 ---
 
-##  About Me
+##  About Me & Vision
 
-I am a 16-year-old software engineer and cybersecurity researcher based in Brussels, Belgium. I specialize in designing deterministic AI workflows for complex code analysis and automated vulnerability detection. 
+I am a 16-year-old cybersecurity researcher, AI engineer, and agentic systems architect based in Brussels, Belgium. I specialize in designing deterministic AI workflows for complex code analysis and automated vulnerability detection. 
 
-Instead of building generic wrapper applications, I focus on orchestration frameworks, abstract syntax tree (AST) parsing, and sandbox containment to build production-ready security tools.
+Instead of building generic wrapper applications, I focus on building resilient orchestration frameworks, abstract syntax tree (AST) parsing, and secure sandbox containment to engineer production-ready security tools.
 
-- 🛠️ **Current Focus:** Scaling **Shadow Auditor v2.0.0**, an autonomous, LangGraph-backed SAST engine.
-- 🧪 **Research Interests:** Multi-agent swarm intelligence (Blackboard patterns), deterministic validation gates, and dynamic application security testing (DAST) isolation.
-- 🌍 **Goal:** Delivering educational technical talks across global AI & Cybersecurity summits to showcase the power of young European tech innovation.
+###  The Paradigm Shift: Engineering vs. Syntax
+
+> **"Oh, so you are a vibe coder?"**
+> 
+> Yes, **I am**. But there is a fundamental difference. I don't just prompt and hope for the best; I architect multi-agent systems, enforce strict anti-hallucination protocols, and design rigorous quality and security gates into software development.
+
+> **"Why don't you learn traditional coding?"**
+> 
+> I did, but with a different philosophy. I find it highly inefficient to waste time memorizing pure syntax in 2026 and beyond. If your vision of the future is still focused on writing code by hand, **you will be replaced**. 
+> 
+> I chose to master the structural logic behind software. I design, audit, and make the high-level architectural decisions, while AI handles the execution loop. Being born into the AI era requires realism: spending years learning language-specific syntax is obsolete for my generation. We build systems, not just lines of code.
 
 ---
 
-## 🏗️ Core Stack & Expertise
+##  Core Stack & Expertise
 
 | Domain | Technologies & Frameworks |
 |--------|---------------------------|
@@ -28,7 +36,7 @@ Instead of building generic wrapper applications, I focus on orchestration frame
 
 ---
 
-## 📈 Featured Project: Shadow Auditor
+##  Featured Project: Shadow Auditor
 
 My primary development effort is **[Shadow Auditor](https://shadow-auditor.app)**, an autonomous AI-powered security analysis engine. 
 
@@ -38,13 +46,12 @@ My primary development effort is **[Shadow Auditor](https://shadow-auditor.app)*
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
-- **LinkedIn:** [Yahya Essabbhy](https://www.linkedin.com/in/essabbahy-yahya/)
-- **Startup Email** contact@shadow-auditor.app
+- **LinkedIn:** [Yahya Essabbahy](https://linkedin.com)
+- **Startup Email:** contact@shadow-auditor.app
 
 *“Autonomous security for teams that demand evidence.”*
-
 
 <!--
 **Yahya-hacker/Yahya-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
