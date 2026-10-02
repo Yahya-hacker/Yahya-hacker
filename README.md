@@ -30,7 +30,7 @@ Instead of building generic wrapper applications, I focus on orchestration frame
 
 ## 📈 Featured Project: Shadow Auditor
 
-My primary development effort is **[Shadow Auditor](https://github.com)**, an autonomous AI-powered security analysis engine. 
+My primary development effort is **[Shadow Auditor](https://shadow-auditor.app)**, an autonomous AI-powered security analysis engine. 
 
 - **Multi-Agent Collaboration:** Employs a 7-role swarm architecture over a shared Blackboard state (Recon, TaintTracer, ExploitAnalyst, Verifier, Reporter, Orchestrator, Patch Engineer).
 - **Anti-Hallucination Choke Point:** Integrates a hostile *Devil's Advocate* agent node that actively challenges and filters out false positives before reporting.
@@ -40,8 +40,9 @@ My primary development effort is **[Shadow Auditor](https://github.com)**, an au
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/essabbahy-yahya/)
+- **LinkedIn:** [Yahya Essabbhy](https://www.linkedin.com/in/essabbahy-yahya/)
 - **Startup Email** contact@shadow-auditor.app
+
 *“Autonomous security for teams that demand evidence.”*
 
 
