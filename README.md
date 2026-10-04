@@ -42,6 +42,10 @@ Instead of building generic wrapper applications, I focus on building resilient 
 
 ##  Featured Project: Shadow Auditor
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df96b04f-7324-4a07-9100-ff81526e0d31" alt="Shadow Auditor" width="420">
+</div>
+
 My primary development effort is **[Shadow Auditor](https://shadow-auditor.app)**, an autonomous AI-powered security analysis engine. 
 
 - **Multi-Agent Collaboration:** Employs a 7-role swarm architecture over a shared Blackboard state (Recon, TaintTracer, ExploitAnalyst, Verifier, Reporter, Orchestrator, Patch Engineer).
@@ -56,18 +60,3 @@ My primary development effort is **[Shadow Auditor](https://shadow-auditor.app)*
 - **Startup Email:** contact@shadow-auditor.app
 
 *“Autonomous security for teams that demand evidence.”*
-
-<!--
-**Yahya-hacker/Yahya-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
