@@ -3,7 +3,11 @@
 **Founder & Agentic Systems Engineer at Shadow Auditor AI**  
 *Building Autonomous Multi-Agent Swarms to Eliminate LLM Hallucinations in Offensive Cybersecurity.*
 
----
+><p align="center">
+>  <a href="https://git.io/typing-svg">
+>    <img src="https://readme-typing-svg.demolab.com/?>font=Fira+Code&size=18&duration=7000&pause=2000&color=36BCF7&center=true&vCenter=true&width=680&height=42&background=00000000&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear" alt="Typing SVG" />
+>  </a>
+></p>
 
 ##  About Me & Vision
 
